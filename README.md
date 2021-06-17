@@ -1,2 +1,2 @@
-# mobile_app
-BASIC BANKING SYSTEM IN WHICH TRANSCATION OF MONEY AND UPGRADATION OF TRANSACTION HISTORY AND BANK BALANCE IS ABLE TO CHECK
+# Basic Online Banking System
+ A simple online banking system to make transactions.
